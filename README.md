@@ -1,5 +1,7 @@
 <h2 align="left">Hello World 👋!! I am Andika Heru Wahyudi</h2>
 
+![Andika Heru Wahyudi] (Image/github-header-banner.png)
+
 <!--
 **AndikaHeruWahyudi/AndikaHeruWahyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
